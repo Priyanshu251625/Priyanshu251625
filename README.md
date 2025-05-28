@@ -21,5 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu251625&show_icons=true&locale=en" alt="priyanshu251625" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu251625&" alt="priyanshu251625" /></p>
-(https://leetcard.jacoblin.cool/Priyanshu-Rajhans25?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
 
